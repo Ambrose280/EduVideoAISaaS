@@ -1,0 +1,16 @@
+{
+  "name": "eduvideoaisaas",
+  "version": "1.0.0",
+  "description": "Sample SaaS that can generate videos with AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "puppeteer": "19.0.0",
+    "puppeteer-screen-recorder": "^3.0.6"
+  }
+}
